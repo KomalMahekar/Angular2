@@ -1,0 +1,10 @@
+.block-content{
+    display: inline-block;
+    text-align: center;
+    }
+    
+    .center-btn{
+        width:100px;
+        height: 30px;
+        text-align: center;
+    }
